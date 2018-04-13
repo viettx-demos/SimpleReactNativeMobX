@@ -1,0 +1,3 @@
+rootProject.name = 'SimpleReactNativeMobX'
+
+include ':app'
